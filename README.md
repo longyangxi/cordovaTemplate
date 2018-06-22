@@ -1,0 +1,2 @@
+# cordovaTemplate
+Cordova Template project
