@@ -1,0 +1,102 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-game-center",
+        "scope": null,
+        "escapedName": "cordova-plugin-game-center",
+        "name": "cordova-plugin-game-center",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/long/Documents/www/projects/physicBall/native"
+    ]
+  ],
+  "_from": "cordova-plugin-game-center@latest",
+  "_id": "cordova-plugin-game-center@0.4.2",
+  "_inCache": true,
+  "_location": "/cordova-plugin-game-center",
+  "_nodeVersion": "4.1.2",
+  "_npmUser": {
+    "name": "leecrossley",
+    "email": "leee@hotmail.co.uk"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-game-center",
+    "scope": null,
+    "escapedName": "cordova-plugin-game-center",
+    "name": "cordova-plugin-game-center",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-game-center/-/cordova-plugin-game-center-0.4.2.tgz",
+  "_shasum": "17ec755f5b8bfc2ca6d0bacbf6c7e992965a6a26",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-game-center",
+  "_where": "/Users/long/Documents/www/projects/physicBall/native",
+  "author": {
+    "name": "Lee Crossley",
+    "email": "leee@hotmail.co.uk",
+    "url": "http://ilee.co.uk/"
+  },
+  "bugs": {
+    "url": "https://github.com/leecrossley/cordova-plugin-game-center/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-game-center",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Game Center Plugin to utilise the iOS Game Center in your app. There is currently support for authentication, submitting a score to a leaderboard, displaying a native leaderboard and achievements.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "17ec755f5b8bfc2ca6d0bacbf6c7e992965a6a26",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-game-center/-/cordova-plugin-game-center-0.4.2.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "ffcc077c6a6b6bd5c93244801367c245ed2dda54",
+  "homepage": "https://github.com/leecrossley/cordova-plugin-game-center#readme",
+  "keywords": [
+    "cordova",
+    "game",
+    "game center",
+    "gamecenter",
+    "leaderboard",
+    "player",
+    "achievements",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "leecrossley",
+      "email": "leee@hotmail.co.uk"
+    }
+  ],
+  "name": "cordova-plugin-game-center",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leecrossley/cordova-plugin-game-center.git"
+  },
+  "scripts": {},
+  "version": "0.4.2"
+}

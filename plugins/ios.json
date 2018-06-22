@@ -1,0 +1,40 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    },
+    "com.rjfun.cordova.httpd": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    },
+    "cordova-plugin-low-power-mode": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    },
+    "cordova-plugin-admobpro": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    },
+    "cordova-plugin-game-center": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-extension": {
+      "PACKAGE_NAME": "com.longames.physicBall"
+    }
+  }
+}
