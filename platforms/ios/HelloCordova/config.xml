@@ -91,6 +91,7 @@
     <preference name="PaginationMode" value="unpaginated" />
     <preference name="StatusBarStyle" value="lightcontent" />
     <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
+    <preference name="AutoHideSplashScreen" value="false" />
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarBackgroundColor" value="#000000" />
 </widget>
