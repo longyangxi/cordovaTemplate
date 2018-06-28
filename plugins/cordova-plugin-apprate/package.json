@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-apprate",
+        "scope": null,
+        "escapedName": "cordova-plugin-apprate",
+        "name": "cordova-plugin-apprate",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/long/Documents/www/nodejs/cordova/cordovaTemplate"
+    ]
+  ],
+  "_from": "cordova-plugin-apprate@latest",
+  "_id": "cordova-plugin-apprate@1.4.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-apprate",
+  "_nodeVersion": "9.9.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-apprate_1.4.0_1528905316898_0.18332666489774874"
+  },
+  "_npmUser": {
+    "name": "westonganger",
+    "email": "weston@westonganger.com"
+  },
+  "_npmVersion": "6.1.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-apprate",
+    "scope": null,
+    "escapedName": "cordova-plugin-apprate",
+    "name": "cordova-plugin-apprate",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-apprate/-/cordova-plugin-apprate-1.4.0.tgz",
+  "_shasum": "b4dd461c1fab83c2cad60777dd71cbc1ff101b14",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-apprate",
+  "_where": "/Users/long/Documents/www/nodejs/cordova/cordovaTemplate",
+  "bugs": {
+    "url": "https://github.com/pushandplay/cordova-plugin-apprate/issues"
+  },
+  "dependencies": {},
+  "description": "A plugin to provide rate this app functionality into your cordova application",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-cordovacli": "*"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-4HflFYuxzctnxQHYL9L5og7GVtVDQuqFX4WGXBzslln8V9/ODCafBTTtLSt+EKoIOJvL1iD5dztYkfyDn7HpBg==",
+    "shasum": "b4dd461c1fab83c2cad60777dd71cbc1ff101b14",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-apprate/-/cordova-plugin-apprate-1.4.0.tgz",
+    "fileCount": 14,
+    "unpackedSize": 66905,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbIT5lCRA9TVsSAnZWagAA5IMP/jmEY7boN902WJx3DrMf\nqaWW8kOhM/kNDFIXIa0MLkEkSMxhn7LHZma1rNROpcuTgyPE9oPNv4AaPZix\n2ch8xRM0AnytKwnwOBcZUm6U6i707n7kl7X5BL9TVMO3yAfuyD8UYycPDpR4\nr+kSTNKD12JBpqvunAx1eAR9/K+0pKsOPJRB1iFZfhe2FH32mABseB5ehMV+\n3AzAA470DbayzIMgPmOrXh+06ooncOTnd4h7UXZP6wnuxoPTgx5lM1G2NPby\n7cYm9BBV+ciYEzmL5ZtCYPfHjcv6eeQOGev5p8nxoSA9nUjl+zu6E+2mRUb4\neZ92u1LEcWgJo8WJhxUujefGdLX0ruC86tosdnCQz05DQtACM0aICg0saGE4\niiAjBRevK4zEF0WpytfFZylvUzXXh3BtS4qDQWxT4se9Okc9xKAmb2Vv5DjB\nXkBG3heSbkLujQfowtNpXtEzVl5aHfeo/s+vAGY6ugCI96rDbPkG5WOSXifC\n/IefeDGsSaJJ8MFNnGBNxFERJ9tVrguqxUSO29B+1qePD/I7cghnbqsEUNd4\nzTCpuNhBbUP8DscayiXz2ibwwro/pyaGBVjDUZZmpUIzcwkNemUBIJ4ofDIw\njuKvty9nPfgloJFDbzUC88RhLTvlt0yp3KtwrSoNLEV0y7qdS1RXEd/f8Oif\n5Bao\r\n=sdYR\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "b5d1b6649ef8d8a3b3693893136b7bd065e64ffb",
+  "homepage": "https://github.com/pushandplay/cordova-plugin-apprate#readme",
+  "maintainers": [
+    {
+      "name": "speige",
+      "email": "devingarner@gmail.com"
+    },
+    {
+      "name": "westonganger",
+      "email": "westonganger@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-apprate",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushandplay/cordova-plugin-apprate.git"
+  },
+  "types": "./typescript/AppRate.d.ts",
+  "version": "1.4.0"
+}

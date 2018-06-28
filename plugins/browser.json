@@ -24,6 +24,9 @@
     },
     "cordova-plugin-wkwebview-engine": {
       "PACKAGE_NAME": "com.longames.treeHero"
+    },
+    "cordova-plugin-apprate": {
+      "PACKAGE_NAME": "com.longames.treeHero"
     }
   },
   "dependent_plugins": {
@@ -34,6 +37,18 @@
       "PACKAGE_NAME": "com.longames.treeHero"
     },
     "cordova-plugin-low-power-mode": {
+      "PACKAGE_NAME": "com.longames.treeHero"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.longames.treeHero"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.longames.treeHero"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.longames.treeHero"
+    },
+    "cordova-plugin-nativestorage": {
       "PACKAGE_NAME": "com.longames.treeHero"
     }
   }
